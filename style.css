@@ -8,6 +8,7 @@
 		background-color:#FF6347;
 		float: left;
 		margin: 15px;
+		border: 1px solid black;
 }
 
 .dclass2 
@@ -15,12 +16,15 @@
 background-color: #FFA500;
 float:left;
 margin:15px;
+border: 1px solid black;
 }
 
 .dclass3 {position: relative;
 		background-color:#FFD700;
 		float: left;
-		margin: 15px;}
+		margin: 15px;
+	        border: 1px solid black;
+}
 .p1
 {
 float: left;
@@ -31,9 +35,11 @@ section{font-size: 1.25em;
 	position: relative;
 	margin:0;
 float:right;
-background-color: #FFA500;}
+background-color: #FFA500;
+border: 1px solid black;
+}
 
-.s1 {background-color: #CF5300;}
+.s1 {background-color: #CF5300;border: 1px solid black;}
 
 @media (min-width: 992px)
 {
