@@ -35,14 +35,16 @@ section{font-size: 1.25em;
 	position: relative;
 	margin:0;
 float:right;
-background-color: #FFA500;}
+background-color: #FFA500;
+	border:1px solid black;
+}
 
-.s1 {background-color: #CF5300;}
+.s1 {background-color: #CF5300;	border:1px solid black;}
 
 @media (min-width: 992px)
 {
 .dclass, .dclass2, .dclass3 {
-	width:33%;}
+	width:30%;}
 }
 
 @media (min-width: 768px) and (max-width: 991px)
