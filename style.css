@@ -8,6 +8,7 @@
 		background-color:#FF6347;
 		float: left;
 		margin: 15px;
+		border: 1px solid black;
 }
 
 .dclass2 
@@ -15,12 +16,16 @@
 background-color: #FFA500;
 float:left;
 margin:15px;
+border: 1px solid black;
 }
 
 .dclass3 {position: relative;
 		background-color:#FFD700;
 		float: left;
-		margin: 15px;}
+		margin: 15px;
+	border: 1px solid black;
+}
+* {box-sizing:border-box;}
 .p1
 {
 float: left;
