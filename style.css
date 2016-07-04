@@ -4,10 +4,12 @@
 	margin-bottom: 30px;
 	text-align: center;}
 	
+	div {margin:15px;}
+	
 .dclass {position: relative;
 		background-color:#FF6347;
 		float: left;
-		margin: 15px;
+		margin-right: 15px;
 		border: 1px solid black;
 }
 
@@ -15,14 +17,14 @@
 {position:relative;
 background-color: #FFA500;
 float:left;
-margin:15px;
+margin-right:15px;
 border: 1px solid black;
 }
 
 .dclass3 {position: relative;
 		background-color:#FFD700;
 		float: left;
-		margin: 15px;
+		margin-right: 15px;
 	border: 1px solid black;
 }
 * {box-sizing:border-box;}
